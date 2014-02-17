@@ -4,7 +4,7 @@ Lesson3
 - ### Ход выполнения
 <p>
  - [ ] <strong>beginner</strong> <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqQ25VUFZQRnJ2Qkk/edit?usp=sharing">Просмотр видео семинара</a>  
- - [ ] <a href="https://dl.dropbox.com/u/33173295/android_lesson3_februrary_methodics_2013.rar">Методичка</a>
+ - [ ] <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqRXRJQlF1eGNITE0/edit?usp=sharing">Методичка</a>
  - [ ] <strong>beginner</strong> <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqTV9hT3pTVHZxQUE/edit?usp=sharing">Исправить ошибку в проекте </a>
  - [ ] <strong>beginner</strong> <a href="http://developer.android.com/reference/android/app/Application.html">Отнаследовать класс Application и переопределить методы жизненого цикла(добавить log.d)</a>
  - [ ] <strong>beginner</strong> <a href="http://developer.android.com/intl/ru/guide/components/intents-filters.html#ExampleSend">Неявный intent - сделать пример с неявным интентом(смотрите также пример Назирова Мухаммада в lesson2)</a>
